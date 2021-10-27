@@ -1,6 +1,6 @@
 # Site settings
-title: Another Blog
-url: "http://laobubu.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
+title: Ethel Elikem Afi Mensah
+url: "http://Eli-kem.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
 description: >
@@ -10,7 +10,7 @@ description: >
 email: your_email@example.com
 author: Ethel Elikem Afi Mensah
 avatar: "https://github.com/Eli-kem/Eli-kem.github.io/blob/gh-pages/photos/Ethel_portrait.jpg?raw=true"
-profile: One sentence introducing yourself.
+profile: Welcome to my site, I hope you find something interesting here!
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
